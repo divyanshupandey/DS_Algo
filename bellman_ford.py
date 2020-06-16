@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 19 18:01:36 2019
-
-@author: dprasad@ad.msystechnologies.com
-"""
-
 import sys 
   
 class Graph(): 
