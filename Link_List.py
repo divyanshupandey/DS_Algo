@@ -1,10 +1,4 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 30 17:04:10 2019
 
-@author: dprasad@ad.msystechnologies.com
-"""
 class Node:
     def __init__(self,data,nextnode):
         self.data = data
