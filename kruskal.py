@@ -1,10 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 25 16:31:58 2019
-
-@author: dprasad@ad.msystechnologies.com
-"""
 
 class Graph:
     def __init__(self,v):
