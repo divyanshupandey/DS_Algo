@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 13 16:00:09 2019
-
-@author: dprasad@ad.msystechnologies.com
-"""
 
 from collections import defaultdict
 
