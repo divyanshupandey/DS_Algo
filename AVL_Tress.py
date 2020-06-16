@@ -1,10 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  5 13:58:50 2019
-
-@author: dprasad@ad.msystechnologies.com
-"""
 
 class Node:
     def __init__(self,data=None,left=None,right=None,height=1):
