@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 11 16:06:24 2019
 
-@author: dprasad@ad.msystechnologies.com
-"""
 #import math
 #
 #class Node:
