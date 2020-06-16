@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 28 18:32:52 2019
-
-@author: dprasad@ad.msystechnologies.com
-"""
 
 N=8
 def isSafe(x,y,sol):
