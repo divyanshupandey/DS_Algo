@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 21 15:57:33 2019
-
-@author: dprasad@ad.msystechnologies.com
-"""
 
 import sys
 
